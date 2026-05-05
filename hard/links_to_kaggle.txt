@@ -1,0 +1,2 @@
+nlp: https://www.kaggle.com/t/9e49a48ae75d4cf29d629714fc171026
+cv: https://www.kaggle.com/t/93ff0bf43dc64dc0ac5cb151a542a24a
